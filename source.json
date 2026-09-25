@@ -14,6 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "u-Kotovsky/Spout2VRCEditor"
+        "u-Kotovsky/Spout2VRCEditor",
+        "u-Kotovsky/KlakSpout"
     ]
 }
