@@ -16,12 +16,5 @@
     "githubRepos":[
         "u-Kotovsky/Spout2VRCEditor"
     ],
-    "packages":[
-        {
-            "name":"com.spout2vrc",
-            "releases":[
-                "https://github.com/u-Kotovsky/Spout2VRCEditor/releases/download/0.0.1/com.spout2vrc.zip"
-            ]
-        }
-    ]
+    "packages":[]
 }
